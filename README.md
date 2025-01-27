@@ -1,6 +1,6 @@
 # Stock Market Prediction Model
 
-An advanced stock market prediction system using LSTM neural networks for price forecasting and technical analysis.
+Welcome to the Stock Market Prediction project! This project leverages machine learning and data visualization techniques to analyze stock market trends and predict future prices for selected stocks. With an interactive frontend and powerful backend, it offers insightful predictions and visualizations for informed decision-making.
 
 ## Features
 
@@ -19,7 +19,7 @@ An advanced stock market prediction system using LSTM neural networks for price 
 
 ## Project Structure
 
-```
+```yaml
 ├── data/
 │   └── data_fetching.py          # Stock data retrieval
 ├── model_training/
